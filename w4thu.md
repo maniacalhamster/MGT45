@@ -121,4 +121,31 @@ Assuming we know the fixed periodic payment amount:
 
 ## 6. Explain how to account for bonds and related interest costs
 
+Context:
+- Jan 1, 2012 bonds issued by borrower (Mason Co)
+- Principal = $100K from creditors
+- Stated interest rate = 9%
+- Interest Date = when annual interest payments are due to creditors
+  - set to 12/31 each year for 5 years
+- Maturity Date = Dec 31, 2016 (end of 5th year); Mason pays off $100K principal
+
+Issuing bond 
+- Balance: `Assets.Cash` = `Liabilities.Bonds_Payable` 
+- Cash Flow + 
+
+Bond interest expense recognition
+- Balance: `(Assets.Cash)` = `(Equity.Ret_Earnings)`
+- Income: `Interest Exp` = `(Net Income)`
+- Cash Flow -
+
+Pay off Bonds payable liability
+- Balance: `(Assets.Cash)` = `(Liabilities.Bonds_Payable)` 
+- Cash Flow - 
+
+![](images/2023-05-02-11-27-42.png)
+
+> Prof considers the bond interest a FA whereas book considers it an OA
+
+![](images/2023-05-02-11-35-08.png)
+
 ## 7. Distinguish between current and noncurrent liabilities and prepare a classified Balance Sheet
