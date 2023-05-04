@@ -97,8 +97,85 @@ Ownership interest (stockholder equity) in a business is comprised of
 
 ## 3. Explain characteristics of major types of stock issued by corporations. Stock is the currency of ownership
 
+**Stock**: ownership of a corp represented by shares that are a claim on the corps earnings and assets. A share or portion of ownership. Proportion of ownership is determined by # shares owned.
+   - Essence of capitalism
+
+**Classes of stock** - Common and Preferred
+   - **Common**: usually entitles in matters taken up at shareholder meetings or by proxy
+     - buy/sell stock
+     - share in distribution of profits from dividends
+     - share in distribution of assets in the case of liquidation meaning if the company goes out of business
+     - Vote on sigificant matters that affect corporate charter
+     - participate in election of board of directors
+   - **Preferred**: gen not voting rights but higher prio on 
+     - dividend distributions
+     - distribution of asserts in case of liquidation (going out of business)
+     > claims on assets/earnings whereby dividends must be paid on preferred stock before any can be paid on common stock
+
+75% companies without preferred stock
+
+> many times preferred stock has a richer and more consistent dividend. Like a hybrid between share of stock + bond
+
+NOTE: A corporation can authorize additional classes of stock, each with its own set of contractual rights
+
+**Outstanding shares**: portions of onership owned by stockholders. Shares of stock IN MARKET
+
+**Market price/Price per Share (PPS)**: price of each share of stock int eh open market
+   - changes every business day. 
+
+**Initial Public Offering (IPO)**: first sale of corporation's stock to the public
+
+**Secondary Offering**: subsequent sales of stock to public
+
+**Market Value or Market Cap(italization)**: number of shares multiplied by market price. (PPS * num_outstanding_shares)
+
+
+Categories of shares:
+- **Authorzed Shares**: max num of shares of capital stock that can be sold to the public
+  - **Issued & Outstanding Shares**: sold auth shares
+  - **Unissued**: not-outstanding auth shares
+
 ## 4. Explain treasury stock
+
+**Treasy Stock**: Issued stock that have been reacquired by the corporation
+
+No voting/dividend rights
+
+Reasons to buy back their own stock?
+- Funding Employee stock option plans
+- Increase earnings per share (EPS)
+  - Net Income / # Shares
+- Supporting the stock price
+- Avoid hostile takeover
 
 ## 5. Explain the effects of declaring and paying cash dividends on a company's financial statements
 
+- Not required to pay dividends
+- Declaring dividend --> legal obligation
+- Investors can benefit by growth & income
+- Companies that have increased annual dividend every year for at least 25
+- A show of financial strength
+
+3 Important Dates
+- Declaration Date: Transaction needed
+  - record liability for dividend
+- Date of Record: No transaction required.
+- Payment Date: Transaction Needed
+  - Record payment of cash to stockholders
+
 ## 6. Explain the effects of stock splits on a company's financial statements
+
+- Same market cap, but lower market price makes ownership more affordable
+- Arguably cosmetic but also psychological
+- Replace existing shares with greater number new shares
+  - any ratio to 1
+  - commonly 2:1
+  - can also have reverse splits
+
+- Normally use stock splits to reduce market price per share of outstanding stock (Amazon 20:1)
+
+- num outstanding shares ++ | proportionate | price per share -- 
+
+- retained earnings not affected
+
+- usually welcomed by market (sign of strength)
