@@ -153,7 +153,127 @@ Used to analyze LONG TERM
 
 ### Number of Times Interest Earned
 
+**Times Interest EArned** = Earnings before Interest Exp and Income Taxes / Interest Expense
+
+- Essentially Operating Expense / Interest Expeense
+- Most common measure of company's ability to provide **protection for it's lon-term creditors**. 
+  - Think of it as a buffer
+- Dollars of operating income PER dollar of interest payable
+
+![](images/2023-05-11-11-11-50.png)
+
 ## 5. Calculate ratio for assessing a company management's effectiveness
+
+Measurements of company and management ability to 
+- generate sales/earnings
+- ultimately create more value for shareholders
+
+### Net Margin (or Return on Sales)
+
+**Net Margin** = Net Income / Net Sales
+
+Percent remaining of each sales dollar after subtracting all expenses
+- cost of coogs sold
+- operating expenses
+- taxes
+- other expenses
+
+![](images/2023-05-11-11-13-48.png)o
+
+### Asset Turnover Ratio
+
+**Asset Turnover** = Net Sales / Average Total Assets
+
+Sales dollars generated for each dollar of assets invested
+
+![](images/2023-05-11-11-17-06.png)
+
+### Return on Investment (ROI)
+
+**ROI** = Net Income / Average Total Assets
+
+Net Income to Amoutn Invested
+
+![](images/2023-05-11-11-18-50.png)
+
+### Return on Equity (ROE)
+
+**Return on Equity** = Net Income / Avg Total Stockholders' Equity
+
+Used to measure profitability of stockholders' investment
+
+![](images/2023-05-11-11-20-32.png)
+
+![](images/2023-05-11-11-22-18.png)
+
+-- Apple bought back stocks (treasury)
+
 ## 6. Calculate ratio for assessing a company's position in the stock market
+
+Stock market analyze the earnings and dividends of a company
+
+### Earnings Per Share
+
+**Earnings Per Share** = Net Earnings Available for Common Stock / Average Number of Outstanding Common Shares
+
+simply put... Net Income / Oustanding Shares
+
+![](images/2023-05-11-11-27-35.png)
+
+### Price-Earnings Ratio
+
+**Price-Earnings Ratio** = Market Price per Share / Earnings per Share
+
+- compares market price for a share of company to their earnings
+- how much will investors be willing to pay for a $hare of earnings?
+- Sometimes can be an indicator of whether stock is exp/cheap within industry
+
+![](images/2023-05-11-11-28-04.png)
+
+### Dividend Yield
+
+**Dividend Yield** = Dividends per Share / Market Price per Share
+
+- identifies the return (cash dividends) on current market price of stock
+- How much dividend will I receive per dollar of share price?
+
+![](images/2023-05-11-11-31-18.png)
+
 ## 7. Review key ratios
+
+Liquidity
+
+1. Working Capital
+2. Current Ratio
+3. Quick Ratio
+4. Accounts Receivable Ratios
+5. Inventory Ratios
+
+Solvency
+
+6. Debt to Assets Ratio
+7. Debt to Equity Ratio
+8. Number of Times Interest Earned
+
+Profitability/Management Effectiveness
+
+9. Net Margin (or Return on Sales)
+10. Asset Turnover Raio
+11. Return on Investment
+12. Return on Equity
+
+Stock Market
+
+13. Earnings Per Share
+14. Price-Earnings (P/E) Ratio
+15. Dividend Yield
+
+![](images/2023-05-11-11-35-15.png)
+
 ## 8. Explain the limitations of financial statement analysis
+
+- Different Industries
+- Changing Economic Environment
+- Accounting Principles
+
+Need to understand the business!
