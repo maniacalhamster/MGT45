@@ -171,7 +171,9 @@ Notes
   - $1.5K est salvage val
   - 3 year useful life
   - $1K anual dep charge
-> Note: Balance sheet didn't have enough columns. Should belong on Accum. Dep. but lumped into Inventory instead
+> Note: Thought that the Balance sheet didn't have enough columns. Should belong on Accum. Dep. but lumped into Inventory instead. 
+>
+> BUT. It actually should be accounted into inventory account since it is used to determine the cost of goods sold.
 - Inventory + (Manuf Equip) = 0
 
 **Event 9**: Sold inventory to customers for $7.5K 
