@@ -198,3 +198,44 @@ Negative net == investment return < required rate of return (subtract value)
 \$583K investment w/ 12% expected return. \$200/year revenue for 4 years, discounted present value future inflow of \$607K. 
 
 Positive net present value of \$24K --> company SHOULD invest in the projectors
+
+## Present Value Table for Annuities
+
+**Annuities**: series of cash flows
+- equal payment amounts
+- equal time intervals between payments
+- constant rate of return
+
+With time-value of money, present amount invested today will yield a certain annuity amount dependent on
+- amount invested
+- interest rate
+- duration of annuity
+
+**Anuity Factor**: sum of individual Present Value factors
+
+![](images/2023-05-30-12-15-38.png)
+
+![](images/2023-05-30-12-16-30.png)
+
+> Excel has a special PV function 
+>
+> PV(Rate per period, Num periods, Future Val)
+
+## Comparing Capital Investment Opp
+
+1. Categorize Cash Flows
+  - inflow
+  - outflow
+2. Understand timing of cash flows
+  > prof's advice: Draw a Picture
+3. Apply discounted cash flow factors to each year of the cash flows
+4. Subtract net present value of outflows from net present value of inflows to determine NPV of each investment opp
+
+![](images/2023-05-30-12-19-30.png)
+
+![](images/2023-05-30-12-19-43.png)
+
+![](images/2023-05-30-12-19-55.png)
+
+![](images/2023-05-30-12-20-09.png)
+
